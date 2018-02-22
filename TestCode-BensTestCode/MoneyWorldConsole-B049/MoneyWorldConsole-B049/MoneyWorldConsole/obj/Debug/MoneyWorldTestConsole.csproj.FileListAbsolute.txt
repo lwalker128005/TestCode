@@ -1,0 +1,8 @@
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\bin\Debug\MoneyWorldConsole.exe.config
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\bin\Debug\MoneyWorldConsole.exe
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\bin\Debug\MoneyWorldConsole.pdb
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\bin\Debug\MoneyLIb.dll
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\obj\Debug\MoneyWorldTestConsole.csprojResolveAssemblyReference.cache
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\obj\Debug\MoneyWorldTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\obj\Debug\MoneyWorldConsole.exe
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldConsole\obj\Debug\MoneyWorldConsole.pdb

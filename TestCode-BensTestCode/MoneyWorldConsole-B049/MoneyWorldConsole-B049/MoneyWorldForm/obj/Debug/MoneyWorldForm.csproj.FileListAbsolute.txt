@@ -1,0 +1,14 @@
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\bin\Debug\MoneyWorldForm.exe.config
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\bin\Debug\MoneyWorldForm.exe
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\bin\Debug\MoneyWorldForm.pdb
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\bin\Debug\MoneyLIb.dll
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\bin\Debug\MoneyWorldConsole.exe
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\bin\Debug\MoneyWorldConsole.pdb
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\bin\Debug\MoneyWorldConsole.exe.config
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\obj\Debug\MoneyWorldForm.csprojResolveAssemblyReference.cache
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\obj\Debug\MoneyWorldForm.Form1.resources
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\obj\Debug\MoneyWorldForm.Properties.Resources.resources
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\obj\Debug\MoneyWorldForm.csproj.GenerateResource.Cache
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\obj\Debug\MoneyWorldForm.csproj.CoreCompileInputs.cache
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\obj\Debug\MoneyWorldForm.exe
+C:\Users\ITS-171-2\Desktop\TestCode-BensTestCode\MoneyWorldConsole-B049\MoneyWorldConsole-B049\MoneyWorldForm\obj\Debug\MoneyWorldForm.pdb
